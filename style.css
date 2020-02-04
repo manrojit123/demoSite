@@ -751,7 +751,7 @@ a:active {
     border-radius: 0;
     margin: 0;
     left: 0;
-    padding:79x 0px;
+ 
   }
   .nav-text{
     position: absolute;
@@ -897,6 +897,7 @@ a:active {
     border-radius: 0;
     margin: 0;
     left: 0;
+    padding:79x 0px;
   }
 
   .portfolio {
