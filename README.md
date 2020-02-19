@@ -1,2 +1,0 @@
-# demoSite
-my Portfolio Demo
